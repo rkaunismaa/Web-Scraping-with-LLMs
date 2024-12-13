@@ -11,5 +11,8 @@ Let's create a local mamba environment for this repo, shall we ...
  3) mamba install conda-forge::jupyterlab
  4) mamba install conda-forge::beautifulsoup4
  5) mamba install conda-forge::requests
+ 6) mamba install conda-forge::openai
+
+ I will be serving up some local LLM using LMstudio. I will begin with the 'hermes-3-llama-3.2-3b' model. 
  
 
